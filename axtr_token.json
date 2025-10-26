@@ -1,0 +1,10 @@
+{
+  "name": "AXTR Token",
+  "symbol": "AXTR",
+  "description": "Testnet token for AXTR project",
+  "image": "https://i.imgur.com/6fmUyx8.png",
+  "properties": {
+    "files": [{"uri": "https://i.imgur.com/6fmUyx8.png", "type": "image/png"}],
+    "category": "token"
+  }
+}
