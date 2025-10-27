@@ -3,8 +3,27 @@
   "symbol": "AXTR",
   "description": "Testnet token for AXTR project",
   "image": "https://i.imgur.com/6fmUyx8.png",
+  "external_url": "https://github.com/telebotkwork",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
   "properties": {
-    "files": [{"uri": "https://i.imgur.com/6fmUyx8.png", "type": "image/png"}],
-    "category": "token"
+    "files": [
+      {
+        "uri": "https://i.imgur.com/6fmUyx8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HDHVtyrAXX2nR7xi3NByWYxNXuAPEK5kLjp7A6CtFccX",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "AXTR Tokens",
+    "family": "AXTR Project"
   }
 }
+
